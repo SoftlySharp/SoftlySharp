@@ -1,12 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     ANIMATED HEADER                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=230&section=header&text=Khushi%20Umrao&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Dev%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING + BADGES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   TYPING + BADGES ROW                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Umrao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-umrao/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40LunaKhushi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunaKhushi)
-[![Email](https://img.shields.io/badge/Gmail-khushi.mystudy999-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
 
 </div>
 
@@ -28,9 +28,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        ABOUT ME                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🙋‍♀️ About Me
 
@@ -51,9 +51,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WHAT I SPECIALISE IN                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                  WHAT I SPECIALISE IN                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🎯 What I Specialise In
 
@@ -84,9 +84,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                       TECH STACK                               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## ⚡ Tech Stack & Skills
 
@@ -137,9 +137,56 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--   CODING PROFILES — Link your LeetCode / HackerRank here!      -->
+<!--                                                                  -->
+<!--   HOW TO USE:                                                    -->
+<!--   1. LeetCode  → replace YOUR_LEETCODE_USERNAME below           -->
+<!--   2. HackerRank → replace YOUR_HACKERRANK_USERNAME below        -->
+<!--   3. Codeforces → replace YOUR_CODEFORCES_USERNAME below        -->
+<!--   4. CodeChef  → replace YOUR_CODECHEF_USERNAME below           -->
+<!--   Remove any badge/card rows for platforms you don't use.       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🏅 Coding Profiles
+
+<div align="center">
+
+<!-- ── PLATFORM BADGES (always visible) ───────────────────────── -->
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__HACKERRANK__USERNAME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CF__USERNAME-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__CC__USERNAME-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CC_USERNAME)
+
+<br/><br/>
+
+<!-- ── LEETCODE LIVE STATS CARD ────────────────────────────────
+     Replace YOUR_LEETCODE_USERNAME with your actual username.
+     This card auto-updates: solved count, acceptance rate, ranking.
+──────────────────────────────────────────────────────────────── -->
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+
+<br/>
+
+<!-- ── HACKERRANK BADGE (auto-fetched stars & score) ──────────
+     No extra setup needed — just swap the username.
+──────────────────────────────────────────────────────────────── -->
+
+<!-- Uncomment when you have a HackerRank account:
+[![HackerRank](https://hrapi.com/YOUR_HACKERRANK_USERNAME/badge?style=flat-square)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+-->
+
+</div>
+
+> 💡 **To activate:** Replace every `YOUR_*_USERNAME` placeholder above with your real username on that platform. The LeetCode card updates automatically — no tokens needed.
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      GITHUB STATS                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 📈 GitHub Analytics
 
@@ -157,9 +204,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        TROPHIES                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🏆 GitHub Trophies
 
@@ -171,9 +218,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    CONTRIBUTION GRAPH                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 Contribution Activity
 
@@ -185,9 +232,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PROFILE SUMMARY CARDS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   PROFILE SUMMARY CARDS                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🗂️ Profile Summary
 
@@ -211,9 +258,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     SNAKE ANIMATION                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🐍 Contribution Snake
 
@@ -227,13 +274,46 @@ class KhushiUmrao {
 
 </div>
 
-> **💡 Setup:** Go to your repo → Actions → enable the **Generate Snake** workflow so this animates live.
+<details>
+<summary><b>⚙️ How to enable the Snake animation</b></summary>
+
+1. Go to your `LunaKhushi/LunaKhushi` repo → **Actions** tab
+2. Click **"set up a workflow yourself"**
+3. Paste this and save as `snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: LunaKhushi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        CONNECT                                  -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🌐 Let's Connect
 
@@ -243,25 +323,23 @@ class KhushiUmrao {
 |:---:|:---:|:---|
 | 💼 | **LinkedIn** | [Khushi Umrao](https://www.linkedin.com/in/khushi-umrao/) |
 | 🐙 | **GitHub** | [@LunaKhushi](https://github.com/LunaKhushi) |
-| ✉️ | **Email** | [khushi.mystudy999@gmail.com](mailto:khushi.mystudy999@gmail.com) |
+| ✉️ | **Email** | [Contact Me](mailto:khushi.mystudy999@gmail.com) |
 | 🚀 | **Portfolio** | Coming soon... |
 
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
 
+<br/>
+
+<i>✨ Thanks for visiting! Feel free to explore my repos and reach out for collabs.</i>
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED FOOTER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<i>✨ Thanks for visiting! Feel free to explore my repos and reach out for collabs.</i>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     ANIMATED FOOTER                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
