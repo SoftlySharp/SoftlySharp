@@ -194,7 +194,7 @@ class KhushiUmrao {
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true" />
 &nbsp;&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
+<img height="175" src="https://streak-stats.demolab.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
 
 <br/><br/>
 
