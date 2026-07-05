@@ -1,43 +1,60 @@
-<!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=220&section=header&text=Khushi%20Umrao&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Dev%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=230&section=header&text=Khushi%20Umrao&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Dev%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING + BADGES                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Web+Developer+%E2%9C%A6+Flutter+Dev+%F0%9F%A6%8B;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Dart;Building+for+Web+%26+Mobile+%F0%9F%9A%80;Code.+Design.+Ship.+Repeat.+%E2%9C%85;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Web+Developer+%E2%9C%A6+Flutter+Dev+%F0%9F%A6%8B;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Dart;Building+for+Web+%26+Mobile+%F0%9F%9A%80;Code.+Design.+Ship.+Repeat.+%E2%9C%85;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS + BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=LunaKhushi&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Umrao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-umrao/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40LunaKhushi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunaKhushi)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-khushi.mystudy999-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ABOUT ME with animated GIF side -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🙋‍♀️ About Me
+
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="dev gif"/>
 
 ```dart
 class KhushiUmrao {
-  String name     = "Khushi Umrao";
-  String role     = "Web Developer & Flutter Dev";
-  List   focuses  = ["Web Apps", "Mobile Apps", "Clean UI"];
-  List   skills   = ["HTML", "CSS", "JS", "Flutter", "Dart"];
-  String goal     = "Transforming ideas into beautiful apps 🚀";
-  bool   openTo   = true; // open for collabs!
+  final String name    = "Khushi Umrao";
+  final String role    = "Web Developer & Flutter Dev";
+  final List   focuses = ["Web Apps", "Mobile Apps", "Clean UI"];
+  final List   stack   = ["HTML", "CSS", "JS", "Flutter", "Dart"];
+  final String mission = "Transforming ideas into beautiful apps 🚀";
+  final bool   openTo  = true; // always open for collabs!
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-<!-- WHAT I SPECIALISE IN -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    WHAT I SPECIALISE IN                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🎯 What I Specialise In
 
 <table>
@@ -67,13 +84,18 @@ class KhushiUmrao {
 
 ---
 
-<!-- SKILLS - ANIMATED ICONS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## ⚡ Tech Stack & Skills
 
 <div align="center">
 
 ### 🖥️ Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,cpp,python&theme=dark&perline=7" />
+
+<br/>
 
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark&perline=5" />
@@ -83,10 +105,11 @@ class KhushiUmrao {
 <br/>
 
 <details>
-<summary><b>📋 Full Skills Breakdown (Click to expand)</b></summary>
+<summary><b>📋 Full Skills Breakdown — Click to expand</b></summary>
+
 <br/>
 
-**🖥️ Web Development**
+**🌐 Web Development**
 &nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -114,14 +137,17 @@ class KhushiUmrao {
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
 
 <br/><br/>
 
@@ -131,7 +157,10 @@ class KhushiUmrao {
 
 ---
 
-<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -142,7 +171,10 @@ class KhushiUmrao {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -153,16 +185,23 @@ class KhushiUmrao {
 
 ---
 
-<!-- PROFILE SUMMARY CARDS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   PROFILE SUMMARY CARDS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🗂️ Profile Summary
 
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaKhushi&theme=tokyonight" width="97%"/>
 
+<br/>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaKhushi&theme=tokyonight" />
 &nbsp;&nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LunaKhushi&theme=tokyonight" />
+
+<br/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaKhushi&theme=tokyonight" />
 &nbsp;&nbsp;
@@ -172,7 +211,10 @@ class KhushiUmrao {
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SNAKE ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -185,9 +227,14 @@ class KhushiUmrao {
 
 </div>
 
+> **💡 Setup:** Go to your repo → Actions → enable the **Generate Snake** workflow so this animates live.
+
 ---
 
-<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -196,19 +243,10 @@ class KhushiUmrao {
 |:---:|:---:|:---|
 | 💼 | **LinkedIn** | [Khushi Umrao](https://www.linkedin.com/in/khushi-umrao/) |
 | 🐙 | **GitHub** | [@LunaKhushi](https://github.com/LunaKhushi) |
-| ✉️ | **Email** | [Drop me a message](mailto:khushi.mystudy999@gmail.com) |
+| ✉️ | **Email** | [khushi.mystudy999@gmail.com](mailto:khushi.mystudy999@gmail.com) |
 | 🚀 | **Portfolio** | Coming soon... |
 
 <br/>
-
-![wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg)
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
 
@@ -216,5 +254,14 @@ class KhushiUmrao {
 
 ---
 
-<!-- ANIMATED FOOTER WAVE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED FOOTER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<i>✨ Thanks for visiting! Feel free to explore my repos and reach out for collabs.</i>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
