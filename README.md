@@ -190,15 +190,19 @@ class KhushiUmrao {
 
 ## 📈 GitHub Analytics
 
+> ⚠️ **If stats cards show broken images:** GitHub readme-stats has rate limits on the public instance. Fix: [Deploy your own free instance on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) in 2 minutes, then replace `github-readme-stats.vercel.app` with `your-app.vercel.app` in this README.
+
+## 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true&cache_seconds=1800&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="175" src="https://streak-stats.demolab.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaKhushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaKhushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -212,7 +216,7 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LunaKhushi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LunaKhushi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -226,7 +230,7 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaKhushi&theme=tokyo-night&hide_border=true&bg_color=0d1120&color=38BDF8&line=C084FC&point=F472B6&area=true&area_color=38BDF8" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaKhushi&theme=tokyo-night&hide_border=true&bg_color=0d1120&color=38BDF8&line=C084FC&point=F472B6&area=true&custom_title=Khushi%27s%20Contribution%20Graph" width="97%"/>
 
 </div>
 
@@ -240,19 +244,19 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaKhushi&theme=tokyonight" width="97%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaKhushi&theme=tokyonight" width="97%"/>
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaKhushi&theme=tokyonight" />
 &nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LunaKhushi&theme=tokyonight" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaKhushi&theme=tokyonight" />
 &nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LunaKhushi&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LunaKhushi&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
