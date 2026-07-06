@@ -14,12 +14,12 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LunaKhushi&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SoftlySharp&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Umrao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-umrao/)
-[![GitHub](https://img.shields.io/badge/GitHub-%40LunaKhushi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LunaKhushi)
+[![GitHub](https://img.shields.io/badge/GitHub-%40SoftlySharp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoftlySharp)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
 
 </div>
@@ -196,13 +196,13 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=LunaKhushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true&cache_seconds=1800&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SoftlySharp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true&cache_seconds=1800&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="175" src="https://streak-stats.demolab.com/?user=LunaKhushi&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
+<img height="175" src="https://streak-stats.demolab.com/?user=SoftlySharp&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LunaKhushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftlySharp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -216,7 +216,7 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LunaKhushi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SoftlySharp&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -230,7 +230,7 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaKhushi&theme=tokyo-night&hide_border=true&bg_color=0d1120&color=38BDF8&line=C084FC&point=F472B6&area=true&custom_title=Khushi%27s%20Contribution%20Graph" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoftlySharp&theme=tokyo-night&hide_border=true&bg_color=0d1120&color=38BDF8&line=C084FC&point=F472B6&area=true&custom_title=Khushi%27s%20Contribution%20Graph" width="97%"/>
 
 </div>
 
@@ -244,19 +244,19 @@ class KhushiUmrao {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaKhushi&theme=tokyonight" width="97%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoftlySharp&theme=tokyonight" width="97%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoftlySharp&theme=tokyonight" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoftlySharp&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaKhushi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoftlySharp&theme=tokyonight" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LunaKhushi&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoftlySharp&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -271,9 +271,9 @@ class KhushiUmrao {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoftlySharp/SoftlySharp/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoftlySharp/SoftlySharp/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SoftlySharp/SoftlySharp/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -281,7 +281,7 @@ class KhushiUmrao {
 <details>
 <summary><b>⚙️ How to enable the Snake animation</b></summary>
 
-1. Go to your `LunaKhushi/LunaKhushi` repo → **Actions** tab
+1. Go to your `SoftlySharp/SoftlySharp` repo → **Actions** tab
 2. Click **"set up a workflow yourself"**
 3. Paste this and save as `snake.yml`:
 
@@ -299,7 +299,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: LunaKhushi
+          github_user_name: SoftlySharp
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -326,7 +326,7 @@ jobs:
 | &nbsp; | Platform | Link |
 |:---:|:---:|:---|
 | 💼 | **LinkedIn** | [Khushi Umrao](https://www.linkedin.com/in/khushi-umrao/) |
-| 🐙 | **GitHub** | [@LunaKhushi](https://github.com/LunaKhushi) |
+| 🐙 | **GitHub** | [@SoftlySharp](https://github.com/SoftlySharp) |
 | ✉️ | **Email** | [Contact Me](mailto:khushi.mystudy999@gmail.com) |
 | 🚀 | **Portfolio** | Coming soon... |
 
