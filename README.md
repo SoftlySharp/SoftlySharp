@@ -1,12 +1,12 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     ANIMATED HEADER                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        HEADER WAVE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=230&section=header&text=Khushi%20Umrao&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Dev%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   TYPING + BADGES ROW                          -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     TYPING + SOCIAL ROW                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -28,9 +28,9 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                        ABOUT ME                                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🙋‍♀️ About Me
 
@@ -51,9 +51,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                  WHAT I SPECIALISE IN                          -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     WHAT I SPECIALISE IN                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🎯 What I Specialise In
 
@@ -84,9 +84,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       TECH STACK                               -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK & SKILLS                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Skills
 
@@ -137,9 +137,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     CODING PROFILES                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       CODING PROFILES                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🏅 Coding Profiles
 
@@ -148,29 +148,17 @@ class KhushiUmrao {
 [![LeetCode](https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-SoftlySharp-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SoftlySharp)
 
-<br/><br/>
-
-<!-- ── HACKERRANK STATS ── -->
-[![HackerRank](https://img.shields.io/badge/View%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SoftlySharp)
+</div>
 
 <br/>
 
-<!-- ── LEETCODE STATS CARD — Uncomment when you join LeetCode ──
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-── -->
-
-</div>
-
-> 💡 **LeetCode:** Jab account banao tab `YOUR_LEETCODE_USERNAME` replace karo — card automatically live ho jaayega.
+> 💡 **LeetCode:** Jab account banao tab username replace karo — stats card automatically live ho jaayega.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                      GITHUB STATS                              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📈 GitHub Analytics
-
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB ANALYTICS                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Analytics
 
@@ -188,23 +176,23 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                        TROPHIES                                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB TROPHIES                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SoftlySharp&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SoftlySharp&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    CONTRIBUTION GRAPH                          -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CONTRIBUTION ACTIVITY                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📊 Contribution Activity
 
@@ -216,9 +204,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   PROFILE SUMMARY CARDS                        -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        PROFILE SUMMARY                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🗂️ Profile Summary
 
@@ -242,9 +230,9 @@ class KhushiUmrao {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     SNAKE ANIMATION                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -261,16 +249,17 @@ class KhushiUmrao {
 <details>
 <summary><b>⚙️ How to enable the Snake animation</b></summary>
 
-1. Go to your `SoftlySharp/SoftlySharp` repo → **Actions** tab
-2. Click **"set up a workflow yourself"**
-3. Paste this and save as `snake.yml`:
+<br/>
+
+1. `SoftlySharp/SoftlySharp` repo → **Actions** tab → **"set up a workflow yourself"**
+2. File naam rakho `snake.yml` aur yeh paste karo:
 
 ```yaml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -291,13 +280,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+3. Save → **Run workflow** manually → Done ✅
+
 </details>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                        CONNECT                                  -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          LET'S CONNECT                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Let's Connect
 
@@ -322,8 +313,8 @@ jobs:
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     ANIMATED FOOTER                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER WAVE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
