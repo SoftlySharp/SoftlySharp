@@ -190,19 +190,18 @@ class KhushiUmrao {
 
 ## 📈 GitHub Analytics
 
-> ⚠️ **If stats cards show broken images:** GitHub readme-stats has rate limits on the public instance. Fix: [Deploy your own free instance on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) in 2 minutes, then replace `github-readme-stats.vercel.app` with `your-app.vercel.app` in this README.
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SoftlySharp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true&cache_seconds=1800&rank_icon=github" />
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=SoftlySharp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&icon_color=C084FC&text_color=e2e8f0&ring_color=38BDF8&count_private=true&cache_seconds=1800&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="175" src="https://streak-stats.demolab.com/?user=SoftlySharp&theme=tokyonight&hide_border=true&background=0d1120&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1120" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftlySharp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SoftlySharp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
 
 </div>
 
