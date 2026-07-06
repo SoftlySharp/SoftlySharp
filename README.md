@@ -138,49 +138,30 @@ class KhushiUmrao {
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--   CODING PROFILES — Link your LeetCode / HackerRank here!      -->
-<!--                                                                  -->
-<!--   HOW TO USE:                                                    -->
-<!--   1. LeetCode  → replace YOUR_LEETCODE_USERNAME below           -->
-<!--   2. HackerRank → replace YOUR_HACKERRANK_USERNAME below        -->
-<!--   3. Codeforces → replace YOUR_CODEFORCES_USERNAME below        -->
-<!--   4. CodeChef  → replace YOUR_CODECHEF_USERNAME below           -->
-<!--   Remove any badge/card rows for platforms you don't use.       -->
+<!--                     CODING PROFILES                            -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🏅 Coding Profiles
 
 <div align="center">
 
-<!-- ── PLATFORM BADGES (always visible) ───────────────────────── -->
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__HACKERRANK__USERNAME-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CF__USERNAME-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__CC__USERNAME-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CC_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SoftlySharp-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SoftlySharp)
 
 <br/><br/>
 
-<!-- ── LEETCODE LIVE STATS CARD ────────────────────────────────
-     Replace YOUR_LEETCODE_USERNAME with your actual username.
-     This card auto-updates: solved count, acceptance rate, ranking.
-──────────────────────────────────────────────────────────────── -->
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+<!-- ── HACKERRANK STATS ── -->
+[![HackerRank](https://img.shields.io/badge/View%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SoftlySharp)
 
 <br/>
 
-<!-- ── HACKERRANK BADGE (auto-fetched stars & score) ──────────
-     No extra setup needed — just swap the username.
-──────────────────────────────────────────────────────────────── -->
-
-<!-- Uncomment when you have a HackerRank account:
-[![HackerRank](https://hrapi.com/YOUR_HACKERRANK_USERNAME/badge?style=flat-square)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
--->
+<!-- ── LEETCODE STATS CARD — Uncomment when you join LeetCode ──
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+── -->
 
 </div>
 
-> 💡 **To activate:** Replace every `YOUR_*_USERNAME` placeholder above with your real username on that platform. The LeetCode card updates automatically — no tokens needed.
+> 💡 **LeetCode:** Jab account banao tab `YOUR_LEETCODE_USERNAME` replace karo — card automatically live ho jaayega.
 
 ---
 
