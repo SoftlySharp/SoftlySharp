@@ -33,9 +33,7 @@
 
 ## 🙋‍♀️ About Me
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="middle">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="coding gif"/>
 
 ```dart
 class KhushiUmrao {
@@ -47,14 +45,7 @@ class KhushiUmrao {
 }
 ```
 
-</td>
-<td width="40%" valign="middle" align="center">
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
