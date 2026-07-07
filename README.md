@@ -33,7 +33,9 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="coding gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td width="62%" valign="middle">
 
 ```dart
 class KhushiUmrao {
@@ -45,7 +47,14 @@ class KhushiUmrao {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="38%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="coding gif" loop="infinite"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
