@@ -33,22 +33,28 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="210" alt="dev gif"/>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="middle">
 
 ```dart
 class KhushiUmrao {
-  final String name     = "Khushi Umrao";
-  final String alias    = "SoftlySharp";
-  final String role     = "Web Developer & Flutter Dev";
-  final List   focuses  = ["Web Apps", "Mobile Apps", "Clean UI"];
-  final List   stack    = ["HTML", "CSS", "JS", "Flutter", "Dart"];
-  final String learning = "Advanced JS · Flutter Animations";
-  final String mission  = "Transforming ideas into beautiful apps 🚀";
-  final bool   openTo   = true; // always open for collabs!
+  final String name    = "Khushi Umrao";
+  final String role    = "Web Developer & Flutter Dev";
+  final List   stack   = ["HTML", "CSS", "JS", "Flutter", "Dart"];
+  final String mission = "Turning ideas into beautiful apps 🚀";
+  final bool   openTo  = true; // always open for collabs!
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="middle" align="center">
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</td>
+</tr>
+</table>
 
 ---
 
