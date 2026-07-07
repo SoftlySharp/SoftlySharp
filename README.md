@@ -10,15 +10,13 @@
 
 <div align="center">
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=580&height=52&lines=Web+Developer+%E2%9C%A6+Flutter+Dev+%F0%9F%A6%8B;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Dart+%F0%9F%92%BB;Building+for+Web+%26+Mobile+%F0%9F%9A%80;Code.+Design.+Ship.+Repeat.+%E2%9C%85;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoftlySharp&color=C084FC&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Umrao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-umrao/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40SoftlySharp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoftlySharp)
@@ -26,8 +24,6 @@
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi.mystudy999@gmail.com)
 
 </div>
-
-<br/>
 
 ---
 
