@@ -35,7 +35,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td width="62%" valign="middle">
+<td width="60%" valign="middle">
 
 ```dart
 class KhushiUmrao {
@@ -48,9 +48,9 @@ class KhushiUmrao {
 ```
 
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="coding gif" loop="infinite"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding gif"/>
 
 </td>
 </tr>
